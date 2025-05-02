@@ -3,7 +3,6 @@ kind: ConfigMap
 
 metadata:
   name: myconfig
-
 data:
   course: "kubernetes"
   duration: "120 hrs"
