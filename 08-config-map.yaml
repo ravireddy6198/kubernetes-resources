@@ -6,3 +6,4 @@ metadata:
 data:
   course: "kubernetes"
   duration: "120 hrs"
+  trainer: shiva
