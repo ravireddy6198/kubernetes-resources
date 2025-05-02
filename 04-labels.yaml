@@ -7,7 +7,6 @@ metadata:
     project: expense
     environment: dev
     component: backend
-
   spec:
     containers:
     - name: nginx
